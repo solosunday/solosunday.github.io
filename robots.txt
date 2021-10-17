@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://solosunday.github.io/sitemap.xml
